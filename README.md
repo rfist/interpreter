@@ -1,3 +1,3 @@
 # interpreter
 
-develop interpreter pattern
+practice interpreter pattern
